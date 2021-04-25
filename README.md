@@ -1,5 +1,6 @@
 # Sources
 
+* https://www.c-sharpcorner.com/article/getting-started-with-vue-js-and-net-core-32/
 * https://docs.microsoft.com/en-us/aspnet/core/security/docker-compose-https?view=aspnetcore-5.0
 * https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-5.0
 * https://github.com/nodesource/distributions
